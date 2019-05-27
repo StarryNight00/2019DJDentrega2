@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: 50adc46489c3c554297930e3d1cf906d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite-canos_0
+    21300002: sprite-canos_1
+    21300004: sprite-canos_2
+    21300006: sprite-canos_3
+    21300008: sprite-canos_4
+    21300010: sprite-canos_5
+    21300012: sprite-canos_6
+    21300014: sprite-canos_7
+    21300016: sprite-canos_8
+    21300018: sprite-canos_9
+    21300020: sprite-canos_10
+    21300022: sprite-canos_11
+    21300024: sprite-canos_12
+    21300026: sprite-canos_13
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite-canos_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 3}
+        - {x: -10, y: -3}
+        - {x: -8, y: -3}
+        - {x: 10, y: -3}
+        - {x: 10, y: 3}
+        - {x: -8, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b26f42a60605d43aab8f987d956743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-canos_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 3}
+        - {x: -10, y: -3}
+        - {x: 10, y: -3}
+        - {x: 10, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cb456fcb6da5e4cb5ba3fca5434c50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-canos_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: -3}
+        - {x: 10, y: -3}
+        - {x: 10, y: 3}
+        - {x: -10, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98846438928e0c249bda50024a6d0210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-canos_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: -3}
+        - {x: 2, y: -3}
+        - {x: 10, y: -3}
+        - {x: 10, y: 3}
+        - {x: 2, y: 3}
+        - {x: -10, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af67933bd50034b4da6ff2f34ebfda0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-canos_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 10}
+        - {x: -3, y: 2}
+        - {x: -3, y: -10}
+        - {x: 3, y: -10}
+        - {x: 3, y: 2}
+        - {x: 3, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd78a217bcc8144fb717fb3bb680a26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-canos_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 40
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: -10}
+        - {x: 3, y: -10}
+        - {x: 3, y: -3}
+        - {x: 3, y: 10}
+        - {x: -3, y: 10}
+        - {x: -3, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd6181d70b70cf428d69797ab776bec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-canos_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: -10}
+        - {x: 3, y: 10}
+        - {x: -3, y: 10}
+        - {x: -3, y: -10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ed6f769903f6a47a5eb4d95aca659a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-canos_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 10}
+        - {x: -3, y: 0}
+        - {x: 0, y: -3}
+        - {x: 10, y: -3}
+        - {x: 10, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff0ccf2b44d041469d9da807b16ad5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-canos_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 10}
+        - {x: -3, y: 3}
+        - {x: -10, y: 3}
+        - {x: -10, y: -3}
+        - {x: 0, y: -3}
+        - {x: 3, y: 0}
+        - {x: 3, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc3460193cc314469b9d7b3998ef80b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-canos_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 0}
+        - {x: -3, y: -10}
+        - {x: 3, y: -10}
+        - {x: 3, y: -3}
+        - {x: 10, y: -3}
+        - {x: 10, y: 3}
+        - {x: 0, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1baaaed3657b5e548b9b3d9cc16f4b68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-canos_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: -3}
+        - {x: -3, y: -3}
+        - {x: -3, y: -10}
+        - {x: 3, y: -10}
+        - {x: 3, y: 0}
+        - {x: 0, y: 3}
+        - {x: -10, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a50a177a86548448acf0ab12e565537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-canos_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 20
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 4}
+        - {x: -10, y: -4}
+        - {x: -6, y: -3}
+        - {x: -5, y: -2}
+        - {x: -5, y: 2}
+        - {x: -6, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f9159ee456fdd478418efaf6d6d50b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-canos_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: 2}
+        - {x: 5, y: -2}
+        - {x: 6, y: -3}
+        - {x: 10, y: -4}
+        - {x: 10, y: 4}
+        - {x: 6, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2f629e00f22b14ab543600ef859aa9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-canos_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 10}
+        - {x: -3, y: -10}
+        - {x: 3, y: -10}
+        - {x: 3, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb8c9f21b805cd4eab7bf63bbbae579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ff6c510fb1ab03c48b967164abd75129
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
